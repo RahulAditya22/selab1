@@ -20,4 +20,5 @@ if a == 0:
         print("Input correct quadratic equation") 
 
 else:
+
     equationroots(a, b, c)
